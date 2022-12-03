@@ -1,0 +1,6 @@
+export const url = 'https://prothomkotha.com/wp-json/wp/v2/posts'
+export const title = 'দৈনিক প্রথম কথা'
+export const logo = 'https://prothomkotha.com/wp-content/uploads/2022/11/prothomkotha-logo.png'
+export const icon = 'https://prothomkotha.com/wp-content/uploads/2022/11/prothomkotha-favicon.png'
+export const description = 'সচেতন পাঠকের দৈনিক'
+export const keywards = 'দৈনিক প্রথম কথা, বাংলা জাতীয় দৈনিক'
